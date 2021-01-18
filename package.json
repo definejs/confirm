@@ -1,6 +1,6 @@
 {
   "name": "@definejs/confirm",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,6 +13,6 @@
     "url": "https://github.com/definejs/confirm.git"
   },
   "dependencies": {
-    "@definejs/dialog": "^0.1.5"
+    "@definejs/dialog": "^1.0.0"
   }
 }
