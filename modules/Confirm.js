@@ -13,7 +13,7 @@ function create() {
     let Dialog = defaults.Dialog;
 
     let dialog = new Dialog({
-        'cssClass': 'definejs-confirm',
+        'cssClass': 'definejs-Confirm',
         'volatile': defaults.volatile,
         'mask': defaults.mask,
         'autoClose': defaults.autoClose,
